@@ -48,19 +48,23 @@
       <br><br>**If it is gzip compressed:**<br>
       `
       mv filename file.gz
+      `<br>
+      `
       gzip -d file.gz
       `
       <br><br>**If it is bzip2 compressed:**<br>
       `
       mv filename file.bz2
+     `<br>
+      `
       bzip2 -d file.bz2
       `
       <br><br>After each extraction, run:<br>
       `
       file newfile
       `<br><br>
-8. Continue decoding layer by layer until you eventually get a readable ASCII text file.
-9.  The ASCII text file will contain the password. Copy it into your text file and disconnect from the current level.
+9. Continue decoding layer by layer until you eventually get a readable ASCII text file.
+10.  The ASCII text file will contain the password. Copy it into your text file and disconnect from the current level.
 
 <br><br><br>
 
